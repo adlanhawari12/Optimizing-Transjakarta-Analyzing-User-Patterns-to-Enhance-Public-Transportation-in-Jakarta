@@ -1,4 +1,4 @@
-# capstone2-
+# Optimizing Transjakarta: Analyzing User Patterns to Enhance Public Transportation in Jakarta
 **Introduction**
 Transjakarta, often referred to as the busway, is a government-supported transportation program aimed at reducing traffic congestion in Jakarta. It is also promoted as a public transport option with guaranteed comfort facilities. According to its official website, Transjakarta is the first Bus Rapid Transit (BRT) system in Southeast and South Asia, operating since 2004 in Jakarta. The Jakarta Regional Government operates Transjakarta to address traffic congestion issues, with the expectation that private vehicle users will switch to using Transjakarta.
 
