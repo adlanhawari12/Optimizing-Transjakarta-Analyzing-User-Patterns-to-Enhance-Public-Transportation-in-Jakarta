@@ -21,12 +21,12 @@ How can we optimize the performance of Transjakarta's fleet, facilities, and ope
 For further data visualization, please refer to the interactive Transjakarta dashboard available https://public.tableau.com/app/profile/adlan.hawari/viz/TransjakartaDB/Dashboard3?publish=yes.
 
 Project Structure
-data/: Contains datasets used for analysis.
-notebooks/: Jupyter notebooks for exploratory data analysis and visualization.
-scripts/: Python scripts for data processing and analysis.
-visualizations/: Generated visualizations and plots.
-README.md: Project documentation.
-requirements.txt: List of dependencies required for the project.
+1. data/: Contains datasets used for analysis.
+2. notebooks/: Jupyter notebooks for exploratory data analysis and visualization.
+3. scripts/: Python scripts for data processing and analysis.
+4. visualizations/: Generated visualizations and plots.
+5. README.md: Project documentation.
+6. requirements.txt: List of dependencies required for the project.
 
 Interactive Dashboard
 For a more interactive experience, visit the Transjakarta Interactive Dashboard to explore various user patterns and insights.
