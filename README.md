@@ -8,17 +8,17 @@ Based on the background above, one of Transjakarta's objectives is to reduce tra
 1. Gender-Based Patterns
 2. Age-Based Patterns
 3. Payment Patterns
-    Based on PayCard Usage
-    Based on Revenue from PayCard
+    - Based on PayCard Usage
+    - Based on Revenue from PayCard
 4. Daily User Patterns
 5. User Patterns Based on Corridors
-    Busiest corridors during peak hours
-    Busiest stations during peak hours
-    Stations frequently used by elderly users
+    - Busiest corridors during peak hours
+    - Busiest stations during peak hours
+    - Stations frequently used by elderly users
 
 **Key Questions**
 How can we optimize the performance of Transjakarta's fleet, facilities, and operational aspects?
-For further data visualization, please refer to the interactive Transjakarta dashboard available here.
+For further data visualization, please refer to the interactive Transjakarta dashboard available https://public.tableau.com/app/profile/adlan.hawari/viz/TransjakartaDB/Dashboard3?publish=yes.
 
 Project Structure
 data/: Contains datasets used for analysis.
