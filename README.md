@@ -1,34 +1,35 @@
 # capstone2-
-1. Introduction
-Transjakarta atau sering disebut busway menjadi salah satu program transportasi yang didukung pemerintah untuk
-mengurangi angka kemacetan lalu lintas di Jakarta juga di klaim sebagai angkutan
-umum dengan fasilitas kenyamanan yang terjamin. Menurut website resmi,
-Transjakarta adalah sebuah sistem transportasi Bus Rapid Transit (BRT) pertama
-di Asia Tenggara dan Selatan yang beroperasi sejak tahun 2004 di Jakarta,
-Pemerintah Daerah Jakarta mengoperasikan Transjakarta untuk mengatasi masalah kemacetan lalu lintas, sehingga kemacetan lalu lintas bisa teratasi diharapkan pengguna kendaraan pribadi akan beralih ke TransJakarta
+**Introduction**
+Transjakarta, often referred to as the busway, is a government-supported transportation program aimed at reducing traffic congestion in Jakarta. It is also promoted as a public transport option with guaranteed comfort facilities. According to its official website, Transjakarta is the first Bus Rapid Transit (BRT) system in Southeast and South Asia, operating since 2004 in Jakarta. The Jakarta Regional Government operates Transjakarta to address traffic congestion issues, with the expectation that private vehicle users will switch to using Transjakarta.
 
-2. Permasalahan
-Berdasaarkan latar belakang diatas salah satu tujuan transjakarta adalah mengurangi kemacetan agar pengguna menggunakan angkutan umum untuk berpergian, akan tetapi masih banyak permasalahan-permaslahan yang terjadi di transjakarta, untuk itu PT transjakarta ingin mengeetahui apakah ada pola tertentu dari data pengguna transjakarta untuk dijadikan insight dari segi karakteristik berikut :
+**Problem Statement**
+Based on the background above, one of Transjakarta's objectives is to reduce traffic congestion by encouraging the use of public transportation. However, there are still many issues faced by Transjakarta. Therefore, PT Transjakarta wants to understand if there are specific patterns in Transjakarta user data to gain insights into the following characteristics:
 
-1. Pola karaktersitik pengguna transjakarta 
-    - Berdasarkan Gender
-    - Berdasarkan Umu
-2. Pola Pembayaran Transjakarta
-    - Berdasarkan PayCard
-    - Berdasarkan Pendapatan dari Paycard
-3. Pola pengguna Transjakarta berdasarkan Hari
-4. Pola Pengguna Transjakarta Berdasarkan koridor
-    - koridorr terpadat / ramai di jam sibuk
-    - Halte terpadat/ ramai di jam sibuk
-    - Halte yang sering digunakan lansia
-    
-dari pola karaktersitik ini diharapkan mendapatkan insight apakah ada pola yang dapat dijadikan masukan , melalui analisis data transaksi dengan tujuan meningkatkan kepuasan pengguna dalam menggunakan Transjakarta dan mengurangi kemacetan di Jakarta.
-kata kunci ?
-Bagaimana cara mengoptimalkan kinerja armada Transjakarta, fasilitas, dan aspek operasional Transjakarta?
+1. Gender-Based Patterns
+2. Age-Based Patterns
+3. Payment Patterns
+    Based on PayCard Usage
+    Based on Revenue from PayCard
+4. Daily User Patterns
+5. User Patterns Based on Corridors
+    Busiest corridors during peak hours
+    Busiest stations during peak hours
+    Stations frequently used by elderly users
 
+**Key Questions**
+How can we optimize the performance of Transjakarta's fleet, facilities, and operational aspects?
+For further data visualization, please refer to the interactive Transjakarta dashboard available here.
 
-untuk data visualisasi lebih lanjut berikut link dashboard interaktif transjakata
-(https://public.tableau.com/app/profile/adlan.hawari/viz/TransjakartaDB/Dashboard3?publish=yes)
+Project Structure
+data/: Contains datasets used for analysis.
+notebooks/: Jupyter notebooks for exploratory data analysis and visualization.
+scripts/: Python scripts for data processing and analysis.
+visualizations/: Generated visualizations and plots.
+README.md: Project documentation.
+requirements.txt: List of dependencies required for the project.
+
+Interactive Dashboard
+For a more interactive experience, visit the Transjakarta Interactive Dashboard to explore various user patterns and insights.
 
 Author
 [ADLAN HAWARI]
